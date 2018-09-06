@@ -1,0 +1,19 @@
+# RestAPI for the Webgame 'TrashWebGame'
+
+It's currently in Development, so please be patient for further updates!
+
+## Deployement
+You can test and run the project via Spring Boot. Futher information on how to run, please refer to : 
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-running-your-application.html
+
+## Frameworks
+
+* Spring
+* Spring Boot
+* Spring WebServices
+* Lombok
+* HATEOS
+* HikariCP
+
+
